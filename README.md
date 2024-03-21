@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### I'm a student at Ohio Universtiy
 <!--
 **nick16choi/nick16choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
